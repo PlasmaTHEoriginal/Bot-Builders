@@ -1,0 +1,11 @@
+# Project-specific files
+Bot-Builder/ml-100k
+Bot-Builder/working_ratings.data
+Bot-Builder/registered_users.csv
+Bot-Builder/.env
+cache
+.pytype/
+cython_debug/
+.idea/*
+*.h2.db
+discord.log
